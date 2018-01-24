@@ -1,8 +1,8 @@
 Hello!!!
 Welcome to Git
 
-1st change
+1st - Change
 
-2nd change
+2nd - Change
 
-3rd change
+3rd - Change
